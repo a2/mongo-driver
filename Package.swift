@@ -4,6 +4,6 @@ let package = Package(
     name: "FluentMongo",
     dependencies: [
     	.Package(url: "https://github.com/vapor/fluent.git", majorVersion: 1, minor: 0),
-    	.Package(url: "https://github.com/callo90/MongoKitten", majorVersion: 1, minor: 6)
+    	.Package(url: "https://github.com/a2/MongoKitten", majorVersion: 1, minor: 6)
     ]
 )
